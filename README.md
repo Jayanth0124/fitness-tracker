@@ -18,6 +18,11 @@
 
 ---
 
+## 🚀 Live Demo  
+
+🔗 **Try it here:** [Live Demo](https://trackmygains.streamlit.app/)  
+  
+---
 ## 🛠️ Installation Guide
 
 1️⃣ **Clone the Repository:**  
