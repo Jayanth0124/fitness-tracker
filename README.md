@@ -3,8 +3,7 @@
 # 💪 Personal Fitness Tracker
 
 🚀 **A Premium AI-Powered Fitness Tracker with an Interactive UI**
-
-![Banner](images/banner.png)  
+ 
 
 ---
 
@@ -23,7 +22,7 @@
 
 1️⃣ **Clone the Repository:**  
 ```bash
-git clone https://github.com/your-username/fitness-tracker.git
+git clone https://github.com/Jayanth0124/fitness-tracker.git
 cd fitness-tracker
 ```  
 2️⃣ **Install Required Packages:**  
@@ -51,8 +50,6 @@ streamlit run fit.py
 ![Dashboard](images/dashboard.png)  
 📌 *Modern Glassmorphism UI with sleek charts.*  
 
-![Workout Log](images/workout_log.png)  
-📌 *Easy-to-use workout logging system.*  
 
 ---
 
@@ -80,7 +77,6 @@ streamlit run fit.py
 ## 📜 License  
 📢 **MIT License** – Feel free to modify & improve!  
 
-🔗 **GitHub Repository:** [https://github.com/your-username/fitness-tracker](https://github.com/your-username/fitness-tracker)  
 
 ---
 
